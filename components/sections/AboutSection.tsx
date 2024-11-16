@@ -23,12 +23,12 @@ const AboutSection = () => {
     },
     {
       icon: <Linkedin className="h-5 w-5" />,
-      text: "LinkedIn",
+      text: "linkedin.com/in/guanshi-wang-a316a3249",
       link: "https://linkedin.com/in/guanshi-wang-a316a3249",
     },
     {
       icon: <Github className="h-5 w-5" />,
-      text: "Github",
+      text: "github.com/oyster14",
       link: "https://github.com/oyster14",
     },
   ];
